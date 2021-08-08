@@ -1,0 +1,7 @@
+LINK TO THE LAYER 1 ADDRESS YOU FUNDED:  https://explorer.nervos.org/aggron/address/ckt1qyq0c2wazsgd3276l0ake8clsl4eukncu3tqz7mlwu
+
+LINK TO THE TRANSACTION ID CREATED BY SUDT-CLI: https://explorer.nervos.org/aggron/transaction/0x5eb4721598c65e52e3dbe38ffa91ac5f046655f35fbd6ef23fa723e36eb6bc85
+
+
+THE SUDT ID FROM THE CONSOLE OUTPUT AFTER EXECUTING THE DEPOSIT SCRIPT: 546
+
